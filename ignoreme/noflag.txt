@@ -1,1 +1,0 @@
-MOCSCTF{flag_here}
